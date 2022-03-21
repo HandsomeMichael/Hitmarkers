@@ -1,0 +1,7 @@
+displayName = Hitmarkers
+author = Lasthue (Neko), Riptide, UsodaKanpeki
+version = 0.9.8
+hideCode = false
+hideResources = false
+includeSource = true
+includePDB = true

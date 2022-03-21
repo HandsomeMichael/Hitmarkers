@@ -1,0 +1,19 @@
+This mod allows hitmarks to be shown when hitting NPCs
+
+Credits:
+- Riptide (Author of Archery Overhaul)
+	- This mod was inspired from Archery Overhaul's minor feature, which includes hitmarkers
+
+Changelogs:
+v0.9.9 - Fixed crosshair 2 , added 2 poorly drawn hitmarker texture
+v0.9.8 - Added config for choosing texture, hitmarkers should now be a tiny ittie bittiest littelest more optimised
+v0.9.6 - Added mod icon, and temporarily re-added hitmarker for miss (Shape: X, Color: White) (removed earlier because I thought it would cause performance issues)
+v0.9.5 - Hitbox method changed (from proj to draw), minor bug fixes and added configs
+v0.9 - Recolored both sprites, from big-yellow to small-red, the reason is because plain red becomes hard to see with vanilla blood & gore, while the yellow also becomes hard to see during the day
+v0.8 - Applied glowmasks
+v0.7 - Swapped sprites for critical and hit (Critical: O, Hit: X)
+v0.6 - Removed miss hitmark
+v0.4 - Resprited & recolored critical hitmark (from O to X, from red to orange)
+v0.3 - Added hitmarker for miss (Yellow hitmark)
+v0.2 - Added hitmarker for critical (Big, red hitmark)
+v0.1 - Mod Created, added hitmarker (Shape: O, Color: Red)
